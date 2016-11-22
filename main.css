@@ -1,3 +1,9 @@
-h1{
-	color: red;
+h1{}
+.orange{
+	background-color: rgba(243, 156, 18,1.0);
+	color: #fff;
+}
+.blue{
+	background-color: rgba(52, 152, 219,1.0);
+	color: #fff;
 }
