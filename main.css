@@ -9,3 +9,8 @@ h1{
 	background-color: rgba(52, 152, 219,1.0);
 	color: #fff;
 }
+
+.img-size{
+	width: 150px;
+	height: auto;
+}
